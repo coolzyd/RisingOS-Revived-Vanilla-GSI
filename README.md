@@ -1,2 +1,2 @@
-# RisingOS-Revived-Vanllia-GSI
+# RisingOS-Revived-Vanilla-GSI
 RisingOS项目已由新的维护组接收，但新的维护组不再提供GSI镜像，此项目旨在为未被官方适配但支持Project Treble的设备提供RisingOS Revived的GSI镜像文件。
